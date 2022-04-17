@@ -1,5 +1,4 @@
 .container {
-  padding: 0 2rem;
 }
 
 .main {
@@ -106,6 +105,10 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.section {
+  height: 100vh;
 }
 
 @media (max-width: 600px) {
